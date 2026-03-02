@@ -24,4 +24,6 @@ void output()
 {
     cout << "Luasnya : " << luasPersegi
     (panjang, lebar) << endl;
+
 }
+    
